@@ -1,0 +1,6 @@
+.todo{
+display: flex;
+justify-content: center;
+background-color: blanchedalmond;
+flex-wrap: wrap;
+}
